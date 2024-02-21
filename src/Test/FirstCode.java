@@ -6,6 +6,7 @@ public class FirstCode {
 		
 		System.out.println("Hello world");
 		System.out.println("How are you?");
+		System.out.println("Add two value");
 
 	}
 
